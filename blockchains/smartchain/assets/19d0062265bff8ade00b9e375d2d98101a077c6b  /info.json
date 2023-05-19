@@ -1,0 +1,10 @@
+{
+  "name": "Liconda",
+  "description": "Liconda (LCN) is a BEP20 token on Binance Smart Chain.",
+  "explorer": "https://bscscan.com/address/0x19d0062265bff8ade00b9e375d2d98101a077c6b",
+  "type": "BEP20",
+  "symbol": "LCN",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x19d0062265bff8ade00b9e375d2d98101a077c6b"
+}
